@@ -6,7 +6,7 @@ WangweiJie In-class Assignment
 
 ## 个人信息
 - GitHub：https://github.com/chrispyang
-- Gitee：https://gitee.com/chrispyang
+- Gitee：https://gitee.com/chainzo
 - 数字货币钱包地址：0x1234567890abcdef（你自己的）
 
 ## 项目说明
